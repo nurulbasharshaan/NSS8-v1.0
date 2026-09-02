@@ -1,4 +1,5 @@
 ================================================================================
+
            ACADEMIC, RESEARCH, AND HOBBYIST NON-COMMERCIAL LICENSE
                               Version 1.0
 
