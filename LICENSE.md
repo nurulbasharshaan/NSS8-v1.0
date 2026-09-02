@@ -1,11 +1,11 @@
-=======================================================================
-                 ACADEMIC, RESEARCH, AND HOBBYIST NON-COMMERCIAL LICENSE
-                                                              Version 1.0 
+========================================================================
+            ACADEMIC, RESEARCH, AND HOBBYIST NON-COMMERCIAL LICENSE
+                                  Version 1.0 
 
 This license accompanies the work "1 MB 8 Bit Heterogeneous SoC with DMA and
 Dynamic Frequency Scaling for Low-Power IoT" and its reference RTL (Phase-1).
 
-=======================================================================
+========================================================================
 
 Copyright (c) 2026 Nurul Bashar. All Rights Reserved.
 
@@ -201,6 +201,6 @@ provided by the Original Author.
 
 =======================================================================
 
-                                                                END OF LICENSE
+                               END OF LICENSE
 
 =======================================================================
