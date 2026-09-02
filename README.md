@@ -127,7 +127,8 @@ The policy favors predictable CPU responsiveness over maximum DMA throughput.
 8bit-heterogeneous-soc/
 ├── rtl/
 │   ├── soc_top.v            
-│   ├── cpu_8bit.v           
+│   ├── cpu_8bit.v
+│   ├── firmware.hex        
 │   ├── bus_arbiter.v           
 │   ├── dma_controller.v       
 │   ├── clock_manager.v         
@@ -137,6 +138,7 @@ The policy favors predictable CPU responsiveness over maximum DMA throughput.
 │   ├── uart_rx.v 
 │   ├── spi_master.v
 │   └── timer_pwm.v
+│   ├── README_verilator.md
 ├── testbench/                  
 ├── docs/                       
 ├── LICENSE                    
