@@ -1,4 +1,4 @@
-module spi_master (
+ module spi_master (
     input  wire       clk, rst_n,
     
     // Memory-mapped control registers
