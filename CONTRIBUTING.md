@@ -74,6 +74,6 @@ For questions regarding contributions or commercial licensing, please contact:
 ### Important
 
 By submitting a Contribution to this repository, you acknowledge that you have read and agreed to this `CONTRIBUTING.md` and the project's **Academic, Research, and Hobbyist Non-Commercial License, Version 1.0**
-**Message:** "If you use this 8-bit SoC architecture, RTL, or its concepts in your research, please cite this work."
-**url:** "https://github.com/nurulbasharshaan/NSS8-v1.0/tree/Release_1"
+**Message:** "If you use this 8-bit SoC architecture, RTL, or its concepts in your research, please cite this work."  
+**url:** "https://github.com/nurulbasharshaan/NSS8-v1.0/tree/Release_1"  
 **doi:** "10.5281/zenodo.22267097"
