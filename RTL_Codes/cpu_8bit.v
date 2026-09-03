@@ -1,4 +1,4 @@
-module cpu_8bit_v3 (
+ module cpu_8bit_v3 (
     input  wire       clk, rst_n,
     input  wire       irq,
     input  wire       bus_grant,    // From bus arbiter
