@@ -1,4 +1,4 @@
-v1.0 Verilator-verified build
+v1.0 Verilator-verified build 
 Pre-print Paper: 1 MB 8 Bit Heterogeneous SoC with DMA and Dynamic Frequency Scaling for Low-Power IoT
 =======================================
 
