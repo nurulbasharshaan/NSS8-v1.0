@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this 8-bit SoC architecture, RTL, or its concepts in your research, please cite this work."
+title: "1 MB 8 Bit Heterogeneous SoC with DMA and Dynamic Frequency Scaling for Low-Power IoT"
+authors:
+  - given-names: Nurul
+    family-names: Bashar
+  - given-names: Samiul
+    family-names: Hossain
+  - given-names: Shafin Ibnul
+    family-names: Mohasin
+version: "1.0.0-phase1"
+date-released: 2026-09-03
+url: "https://github.com/nurulbasharshaan/NSS8-v1.0/tree/Release_1"
+doi: "10.5281/zenodo.22267097"
