@@ -1,4 +1,4 @@
-module ram_128kb (
+ module ram_128kb (
     input  wire       clk, wr_en, rd_en,
     input  wire [16:0] addr, // 17 bits = 128KB
     input  wire [7:0]  wr_data,
