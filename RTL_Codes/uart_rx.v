@@ -1,4 +1,4 @@
-module uart_rx (
+ module uart_rx (
     input  wire       clk, rst_n,
     input  wire       rx_pin,
     output reg [7:0]  rx_data,
