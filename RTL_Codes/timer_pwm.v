@@ -1,4 +1,4 @@
-module timer_pwm (
+ module timer_pwm (
     input  wire       clk, rst_n,
     
     // Memory-mapped registers
