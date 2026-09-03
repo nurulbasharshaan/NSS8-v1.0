@@ -137,8 +137,7 @@ The policy favors predictable CPU responsiveness over maximum DMA throughput.
 │   ├── uart_rx.v 
 │   ├── spi_master.v
 │   └── timer_pwm.v
-├── testbench/                  
-├── docs/                       
+├── testbench/                                        
 ├── LICENSE                    
 ├── CONTRIBUTING.md
 ├── CITATION.cff
