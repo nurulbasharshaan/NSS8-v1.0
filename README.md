@@ -2,7 +2,7 @@
 
 ### Phase 1 Architectural Research Preview
 
-[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22267097.svg)](https://doi.org/10.5281/zenodo.22267097)
+[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22267097.svg)](https://doi.org/10.5281/zenodo.22267097)  
 GitHub: https://github.com/nurulbasharshaan/NSS8-v1.0/tree/Release_1
 
 **Authors:** Nurul Bashar, Samiul Hossain, Shafin Ibnul Mohasin
