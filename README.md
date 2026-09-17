@@ -2,8 +2,8 @@
 
 ### Phase 1 Architectural Research Preview
 
-[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22267097.svg)](https://doi.org/10.5281/zenodo.22267097)  
-GitHub: https://github.com/nurulbasharshaan/NSS8-v1.0/tree/Release_1
+DOI: 10.13140/RG.2.2.12219.58404  
+Link: https://doi.org/10.13140/RG.2.2.12219.58404
 
 **Authors:** Nurul Bashar, Samiul Hossain, Shafin Ibnul Mohasin
 **Affiliation:** ASIC Physical Design Department, PrimeSilicon Technology (BD) Ltd., Dhaka, Bangladesh
