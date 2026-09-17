@@ -229,9 +229,9 @@ cite:
                   Scaling for Low-Power IoT},
   year         = {2026},
   note         = {Phase-1 research preview; RTL and materials archived at
-                  DOI 10.5281/zenodo.XXXXXXX},
-  doi          = {10.5281/zenodo.XXXXXXX},
-  url          = {https://github.com/YOUR_USERNAME/YOUR_REPO}
+                  DOI 10.13140/RG.2.2.12219.58404},
+  doi          = {10.13140/RG.2.2.12219.58404},
+  url          = {https://github.com/nurulbasharshaan/NSS8-v1.0/tree/Release_1}
 }
 ```
 
