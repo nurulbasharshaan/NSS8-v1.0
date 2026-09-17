@@ -5,8 +5,8 @@
 This license accompanies the work "1 MB 8 Bit Heterogeneous SoC with DMA and
 Dynamic Frequency Scaling for Low-Power IoT" and its reference RTL (Phase-1).
   
-url: "https://github.com/nurulbasharshaan/NSS8-v1.0/tree/Release_1"  
-doi: "10.5281/zenodo.22267097"
+url: "https://doi.org/10.13140/RG.2.2.12219.58404"  
+doi: "10.13140/RG.2.2.12219.58404"
 
 =======================================================================
 
